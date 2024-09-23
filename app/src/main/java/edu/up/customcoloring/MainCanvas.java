@@ -7,6 +7,8 @@ import android.graphics.Paint;
 import android.util.AttributeSet;
 import android.view.SurfaceView;
 
+//@author De'Ante Agleham
+
 public class MainCanvas extends SurfaceView {
 
     //For our favorite color
